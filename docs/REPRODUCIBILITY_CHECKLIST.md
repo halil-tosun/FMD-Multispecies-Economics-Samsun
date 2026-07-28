@@ -50,10 +50,7 @@ reproducibility policies).
 - [x] Every script was executed and its console output compared,
       table-by-table, against the corresponding manuscript table before
       this package was finalized.
-- [x] Tables 1, 4, 5, and 6 reproduce **exactly**.
-- [x] Table 2, Table 3, and the Section 3.5 income-vulnerability
-      statistics reproduce to within rounding (differences of less than
-      approximately 1%; see `docs/CODEBOOK.md`).
+- [x] Tables 1, 2, 3, 4, 5, and 6 reproduce exactly.
 - [x] All reported significance levels, effect directions, and species/
       age-class rankings reproduce exactly.
 
