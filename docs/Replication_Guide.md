@@ -69,11 +69,8 @@ a finished cartographic base map (see `docs/CODEBOOK.md`).
 ## 4. Cross-Check Against the Manuscript
 
 Open each CSV in `output/` and compare its values against the
-corresponding table in the manuscript. Tables 1, 4, 5, and 6 should
-match exactly. Table 2, Table 3, and the income-vulnerability statistics
-should match to within approximately 1% (rounding-level differences; see
-`docs/DATA_DESCRIPTION.md`, Section 6, and `docs/CODEBOOK.md`). All
-significance levels, effect directions, and rankings match exactly. If
+corresponding table in the manuscript. Tables 1, 2, 3, 4, 5, and 6 should
+match exactly. All significance levels, effect directions, and rankings match exactly. If
 you find a larger discrepancy than described here, please open an issue,
 including your Python and package versions.
 
@@ -115,5 +112,3 @@ in full, particularly:
   matplotlib version matches `requirements.txt`; minor rendering
   differences across matplotlib versions do not affect the reported
   statistics, only cosmetic details (marker size, font rendering).
-- **Small numerical differences in Table 3 / Table 2**: expected; see
-  Step 4 above and `docs/DATA_DESCRIPTION.md`, Section 6.
