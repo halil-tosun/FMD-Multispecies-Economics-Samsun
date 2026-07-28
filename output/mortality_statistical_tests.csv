@@ -1,0 +1,5 @@
+test,comparison,statistic,df,p_value
+"Chi-square (6 age-sex classes, homogeneity)",-,47.16,5.0,5.281633704554139e-09
+Two-proportion z-test,Calves vs Heifers+Yearlings+Steers (combined),5.74,,9.315291205069798e-09
+Two-proportion z-test,Calves vs Cows,0.32,,0.7515002661984511
+Two-proportion z-test,Calves vs Bulls,-1.04,,0.29603548637531807

@@ -1,0 +1,5 @@
+stratum,animal_holding_range,sample_n
+1,20-49,119
+2,50-384,117
+3,>=385,50
+Total,,286

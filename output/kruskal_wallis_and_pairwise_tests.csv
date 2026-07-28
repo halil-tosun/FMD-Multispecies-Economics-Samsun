@@ -1,0 +1,8 @@
+test,comparison,statistic,p_value,bonferroni_alpha,significant_after_correction
+Kruskal-Wallis (all species),-,226.01,1.0072594507949366e-48,0.008333333333333333,True
+Mann-Whitney U (Bonferroni-corrected),Cattle vs Water buffalo,1423.0,7.172378110077316e-19,0.008333333333333333,True
+Mann-Whitney U (Bonferroni-corrected),Cattle vs Sheep,13056.0,6.029883169344589e-26,0.008333333333333333,True
+Mann-Whitney U (Bonferroni-corrected),Cattle vs Goat,3649.0,0.0011182457739626502,0.008333333333333333,True
+Mann-Whitney U (Bonferroni-corrected),Water buffalo vs Sheep,10088.0,9.423229313737696e-33,0.008333333333333333,True
+Mann-Whitney U (Bonferroni-corrected),Water buffalo vs Goat,3508.0,5.927273686959678e-15,0.008333333333333333,True
+Mann-Whitney U (Bonferroni-corrected),Sheep vs Goat,1084.0,3.404390315963013e-09,0.008333333333333333,True

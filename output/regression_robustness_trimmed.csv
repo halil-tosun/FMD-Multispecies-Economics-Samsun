@@ -1,0 +1,10 @@
+variable,coefficient,cluster_robust_se,p_value
+Intercept,9.218,0.1127,0.0
+Goat,-0.6297,0.1117,4.3233951974031015e-08
+Sheep,-1.9984,0.0902,0.0
+Water buffalo (ref.: cattle),1.6014,0.0867,0.0
+Herd size,0.0043,0.0006,5.555311766158866e-11
+Illness duration,0.0012,0.0014,0.3766949491903169
+Within-herd prevalence,-4.777,0.3839,0.0
+Stratum 2 (ref.: Stratum 1),0.008,0.0754,0.9152188634757712
+Stratum 3 (ref.: Stratum 1),0.1552,0.1127,0.16956510648764045
