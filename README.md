@@ -199,7 +199,7 @@ ORCID: https://orcid.org/0000-0003-2037-7756
 
 ## DOI
 
-**Zenodo DOI:** https://doi.org/xxxx *(placeholder -- to be updated upon deposition)*
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.21650221
 
 The manuscript's own DOI (once published) will be added to this file and
 to the citation metadata files at that time.
